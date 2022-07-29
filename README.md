@@ -4,9 +4,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-## Welcome to the Official Combilift Telematics Dashboard 📊
-## Combilift Live Data Solutions 
-### - Telematics Report System Development
+## Welcome to my github page! 📊
+## I'm a software developer currently working with a company called Combilift - developing a telematics solution for the company and it's customers.
 
 <br>
 
