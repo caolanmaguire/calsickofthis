@@ -1,4 +1,4 @@
-![Combilift Logo](logo_black.png)
+<img src="https://combilift.com/wp-content/uploads/2021/09/Combilift-Web-Logo_sm.png" width="300px" />
 
 <br>
 
