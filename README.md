@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caolán Maguire</h1>
 
-<small align="center">It's pronounced Kay-Lawn</small>
+<h3 align="center">It's pronounced Kay-Lawn</h3>
 
 <h3 align="center">A passionate software developer student from Ireland</h3>
 
