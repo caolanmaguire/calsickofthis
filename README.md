@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caolán Maguire</h1>
-<center>
-<small>It's pronounced Kay-Lawn</small>
-</center>
+
+<small align="center">It's pronounced Kay-Lawn</small>
+
 <h3 align="center">A passionate software developer student from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calsickofthis&label=Profile%20views&color=0e75b6&style=flat" alt="calsickofthis" /> </p>
