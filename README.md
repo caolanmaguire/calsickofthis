@@ -3,6 +3,8 @@
 <p><em>Software Engineer at <a href="http://www.atu.ie">Atlantic Technological University of Galway</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.combilift.com">Combilift</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+![](https://komarev.com/ghpvc/?username=calsickofthis)
+
 [![Twitter: Calsickofthis](https://img.shields.io/twitter/follow/calsickofthis?style=social)](https://twitter.com/calsickofthis)
 [![Linkedin: caolanmaguire](https://img.shields.io/badge/-caolanmaguire-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caolanmaguire/)](https://www.linkedin.com/in/caolanmaguire/)
 [![GitHub calsickofthis](https://img.shields.io/github/followers/calsickofthis?label=follow&style=social)](https://github.com/calsickofthis)
